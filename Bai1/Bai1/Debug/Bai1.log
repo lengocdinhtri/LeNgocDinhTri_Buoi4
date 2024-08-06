@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f6aaeee0b7fad6dfecdfb4fac63f4fc763b9abb5
 ﻿Build started 31/07/2024 16:58:58.
      1>Project "E:\LuuDuLieuSinhVien\2001210210_LeNgocDinhTri\Bai1\Bai1\Bai1.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
@@ -17,6 +20,7 @@
 Build succeeded.
 
 Time Elapsed 00:00:01.18
+<<<<<<< HEAD
 =======
 ﻿Build started 8/6/2024 11:11:32 PM.
      1>Project "D:\download\THKTLT_text\Bai1\Bai1\Bai1.vcxproj" on node 2 (Build target(s)).
@@ -34,3 +38,5 @@ Build succeeded.
 
 Time Elapsed 00:00:01.09
 >>>>>>> e7f4813 (finish Bai1.3_BTTL)
+=======
+>>>>>>> f6aaeee0b7fad6dfecdfb4fac63f4fc763b9abb5

@@ -16,13 +16,19 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f6aaeee0b7fad6dfecdfb4fac63f4fc763b9abb5
     <ClCompile Include="Bai1.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Bai1.2.cpp">
+<<<<<<< HEAD
 =======
     <ClCompile Include="Bai1.3.cpp">
 >>>>>>> e7f4813 (finish Bai1.3_BTTL)
+=======
+>>>>>>> f6aaeee0b7fad6dfecdfb4fac63f4fc763b9abb5
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

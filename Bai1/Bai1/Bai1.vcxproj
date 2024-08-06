@@ -12,10 +12,14 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{287253DF-39DB-4AFE-A63A-7136C1F47B52}</ProjectGuid>
 =======
     <ProjectGuid>{9FC6718A-B2A0-4ABD-BC44-CDBA82B29DAF}</ProjectGuid>
 >>>>>>> e7f4813 (finish Bai1.3_BTTL)
+=======
+    <ProjectGuid>{287253DF-39DB-4AFE-A63A-7136C1F47B52}</ProjectGuid>
+>>>>>>> f6aaeee0b7fad6dfecdfb4fac63f4fc763b9abb5
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Bai1</RootNamespace>
   </PropertyGroup>
@@ -81,11 +85,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="Bai1.1.cpp" />
     <ClCompile Include="Bai1.2.cpp" />
 =======
     <ClCompile Include="Bai1.3.cpp" />
 >>>>>>> e7f4813 (finish Bai1.3_BTTL)
+=======
+    <ClCompile Include="Bai1.1.cpp" />
+    <ClCompile Include="Bai1.2.cpp" />
+>>>>>>> f6aaeee0b7fad6dfecdfb4fac63f4fc763b9abb5
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
